@@ -1,0 +1,45 @@
+*{
+    font-family: 'Times New Roman', Times, serif;
+    padding:10px;
+}
+
+.content-holder{
+    width: 900px;
+    background-color:greenyellow;
+    margin: auto ;
+    text-align: center;
+    padding: 20px;
+}
+
+h1{
+    margin: 20px;
+    margin: auto;
+    margin-bottom: 10px;
+}
+
+img.github-cats{
+    height: 200px;
+}
+
+.row{
+    display: flex;
+    background-color: orange;
+    justify-content: space-around;
+    margin:10px;
+    
+}
+
+.purple{
+    background-color: purple;
+    justify-content: space-around;
+}
+
+.red{
+    background-color: red;
+
+}
+
+
+
+
+
